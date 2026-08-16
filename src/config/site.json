@@ -1,0 +1,49 @@
+{
+  "template": "gym",
+  "brand": {
+    "name": "Fitway Gym",
+    "shortName": "Fitway",
+    "tagline": "",
+    "email": "",
+    "phone": "",
+    "address": "",
+    "city": "",
+    "social": {
+      "instagram": "",
+      "youtube": "",
+      "x": ""
+    },
+    "logo": "/brand/logo.png"
+  },
+  "colors": {
+    "bg": "#1c2313",
+    "bgElevated": "#262f1d",
+    "surface": "#2f3a26",
+    "surface2": "#3e4c33",
+    "text": "#f2f4f3",
+    "muted": "#a1b49b",
+    "accent": "#bbf954",
+    "accent2": "#8cd40c",
+    "logoBg": "#fdfdfd"
+  },
+  "layout": {
+    "headerLogoBg": false,
+    "footerLogoBg": false
+  },
+  "pages": {
+    "home": true,
+    "about": true,
+    "branches": false,
+    "halls": false,
+    "trainers": false,
+    "services": false,
+    "tools": false,
+    "equipment": false,
+    "pricing": false,
+    "shop": false,
+    "blog": false,
+    "faq": true,
+    "contact": true,
+    "auth": false
+  }
+}
